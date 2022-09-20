@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+  }
+
+body{
+    width:100%;
+   font-family:"reem kufi ink"
+}
+
+.box {
+    width: 100px;
+    height:100px;
+    border: 2px solid black;
+    font-size: 60px;
+    justify-content: center;
+    }
+
+div {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+}
+
+img {
+    display: flex;
+}
