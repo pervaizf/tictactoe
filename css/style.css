@@ -25,3 +25,7 @@ div {
 img {
     display: flex;
 }
+
+.hidden {
+    display: none;
+}
